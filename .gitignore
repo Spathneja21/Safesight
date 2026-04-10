@@ -9,3 +9,11 @@ __pycache__/
 .vscode/
 # Output
 output/
+
+helmet_withoutyolo/dataset/
+helmet_withoutyolo/V2/data/
+helmet_withoutyolo/helmet-detection-system/
+helmet_withoutyolo/model/
+
+*.pt
+*.zip
