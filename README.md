@@ -346,8 +346,6 @@ These four metrics drive an adaptive preprocessing decision — CLAHE for high s
 
 ## Project Structure
 
-## Project Structure
-
 ```bash
 SafeSight/
 ├── main.py                    # Flask API server + video processing pipeline
